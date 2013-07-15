@@ -1,4 +1,4 @@
 GFMD_tester
 ===========
 
-Repo for testing Github-flavored Markdown
+![BartHair 64](barthair_64.png "Aw, yiss...")
