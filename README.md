@@ -10,9 +10,9 @@ GFMD_tester
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
-  # ordered
-  # list
-  # yay
+  1. ordered
+  2. list
+  3. yay
 
   * unordered
   * list
