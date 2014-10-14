@@ -17,3 +17,23 @@ GFMD_tester
   * unordered
   * list
   * newfs
+
+```
+function generic_code_block() {
+    console.log('yay');
+}
+```
+
+```javascript
+function generic_code_block() {
+    console.log('yay');
+}
+```
+
+```python
+def testo():
+    j = 0
+    print "this is a test of some python"
+    for i in stuff:
+        j = j + i
+```
