@@ -37,3 +37,21 @@ def testo():
     for i in stuff:
         j = j + i
 ```
+
+```ditaa
+             +--+
+   +-----+-->|  |
+   |     |   +--+
+   |     |
+   |     |
+ +-+-+ +-+-+
+ | | | |   |
+ |   | |   |
+ +---+ +---+
+```
+
+<h1>Does this work?</h1>
+
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+
+<span style='font-size: 2em;'>How about this?</span>
