@@ -38,6 +38,7 @@ def testo():
         j = j + i
 ```
 
+<!-- this gets wrapped in a code tag, which is then wrapped in a pre tag with lang="ditaa" -->
 ```ditaa
              +--+
    +-----+-->|  |
@@ -50,8 +51,9 @@ def testo():
  +---+ +---+
 ```
 
-<h1>Does this work?</h1>
+<h1>Does this work?</h1>  <!-- inner text gets wrapped in anchor tag -->
 
+<!-- this does NOT work -->
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 
-<span style='font-size: 2em;'>How about this?</span>
+<span style='font-size: 2em;'>How about this?</span>  <!-- converted to a p tag -->
